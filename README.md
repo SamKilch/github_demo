@@ -1,2 +1,2 @@
-# github_demo
-Demo Repo for Github Tutorial
+#Github Demo Repo
+This is a demo of how to use and work with Github
